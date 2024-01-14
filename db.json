@@ -1,0 +1,12 @@
+[
+  {"timestamp": "2024-01-14T12:00:00Z", "value": 120, "category": "A"},
+  {"timestamp": "2024-01-14T13:00:00Z", "value": 150, "category": "A"},
+  {"timestamp": "2024-01-14T14:00:00Z", "value": 90, "category": "B"},
+  {"timestamp": "2024-01-14T15:00:00Z", "value": 200, "category": "B"},
+  {"timestamp": "2024-01-14T16:00:00Z", "value": 130, "category": "A"},
+  {"timestamp": "2024-01-14T17:00:00Z", "value": 180, "category": "B"},
+  {"timestamp": "2024-01-14T18:00:00Z", "value": 110, "category": "A"},
+  {"timestamp": "2024-01-14T19:00:00Z", "value": 160, "category": "B"},
+  {"timestamp": "2024-01-14T20:00:00Z", "value": 140, "category": "A"},
+  {"timestamp": "2024-01-14T21:00:00Z", "value": 170, "category": "B"}
+]
